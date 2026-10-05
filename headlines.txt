@@ -1,0 +1,4 @@
+
+The PDF also lists interview questions covering **GET requests, packages, User-Agent, `find_all()`, scraping risks, HTML `id` vs `class`, HTML tags, `.text`, try-except, and HTTP status codes**. :chatgpt-content-reference{index="3"}
+
+If you want, I can guide you **step-by-step from creating the GitHub repository → creating these 4 files → running the scraper → pushing everything to GitHub → getting the final submission link**.
